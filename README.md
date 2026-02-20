@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🌟 Star Bangla Official
+# 🌟 Star Bangla Official 🇧🇩
 
-[![Telegram](https://img.shields.io/badge/Join-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Star_Bang_Official)
+[![Telegram](https://img.shields.io/badge/Telegram-Join_Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/Star_Bangla_Official)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/@StarBanglaOfficial-007)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://facebook.com/StarBanglaOfficial007)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow_Us-blue?style=for-the-badge&logo=facebook)](https://facebook.com/StarBanglaOfficial007)
 
 ---
 
@@ -20,20 +20,19 @@
 
 আমাদের এই প্রজেক্টটি মূলত **Star Bangla Official** অ্যাপটি পরিচালনা করার জন্য তৈরি করা হয়েছে। 
 
-* 📥 **আমাদের অ্যাপ:** সেরা ইউজার ইন্টারফেসের জন্য নিচের বাটন থেকে আমাদের অফিসিয়াল অ্যাপটি ডাউনলোড করুন।
-* 🔗 **অন্য প্লেয়ারে দেখুন:** আপনি যদি আমাদের লিঙ্ক অন্য কোনো প্লেয়ারে (VLC, MX Player) ব্যবহার করতে চান, তবে নিচের দেওয়া M3U লিঙ্কটি কপি করে নিন।
+* 📥 **অফিসিয়াল অ্যাপ:** সেরা ফিচারের জন্য নিচের বাটন থেকে আমাদের অ্যাপটি ডাউনলোড করুন।
+* 🔗 **অন্য প্লেয়ারে ব্যবহার:** আপনি চাইলে আমাদের M3U লিঙ্কটি কপি করে অন্য যেকোনো আইপি টিভি প্লেয়ারে চালাতে পারবেন।
 
 ---
 
 ## 📥 DOWNLOAD OUR APP
-
-[![Download Star Bangla App](https://img.shields.io/badge/Download-Star_Bangla_App-green?style=for-the-badge&logo=android&logoColor=white)](https://gla.onrender.com)
+[![Download Star Bangla App](https://img.shields.io/badge/Download-Android_App-green?style=for-the-badge&logo=android&logoColor=white)](https://gla.onrender.com)
 
 ---
 
 ## 🔗 M3U PLAYLIST URL (COPY LINK)
 
-নিচের লিঙ্কটি কপি করে আপনার পছন্দের প্লেয়ারে ব্যবহার করুন:
+নিচের লিঙ্কটি কপি করে VLC বা অন্য প্লেয়ারে ব্যবহার করুন:
 
 ```text
 [https://raw.githubusercontent.com/starbangla/iptv/main/playlist.m3u](https://raw.githubusercontent.com/starbangla/iptv/main/playlist.m3u)
