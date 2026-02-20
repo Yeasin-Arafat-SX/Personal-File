@@ -1,11 +1,10 @@
 <div align="center">
 
 # 🌟 Star Bangla Official 🇧🇩
-### আপনার প্রিয় সব টিভি চ্যানেল এখন হাতের মুঠোয়!
 
-[![Telegram](https://img.shields.io/badge/Telegram-Join_Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/Star_Bangla_Official)
+[![Telegram](https://img.shields.io/badge/Join-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Star_Bangla_Official)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/@StarBanglaOfficial-007)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow_Us-blue?style=for-the-badge&logo=facebook)](https://facebook.com/StarBanglaOfficial007)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://facebook.com/StarBanglaOfficial007)
 
 ---
 
@@ -17,17 +16,41 @@
 
 ---
 
-## 📥 এখনই ডাউনলোড করুন (DOWNLOAD NOW)
+## 📢 বিশেষ ঘোষণা (Important Notice)
 
-সেরা ফিচারের জন্য নিচের বাটন থেকে আমাদের অফিসিয়াল অ্যান্ড্রয়েড অ্যাপটি ডাউনলোড করে নিন:
+আমাদের এই প্রজেক্টটি মূলত **Star Bangla Official** অ্যাপটি সুন্দরভাবে পরিচালনা করার জন্য তৈরি করা হয়েছে। 
 
-[![Download Star Bangla App](https://img.shields.io/badge/Download-Star_Bangla_App-green?style=for-the-badge&logo=android&logoColor=white)](https://gla.onrender.com)
+* 📥 **আমাদের অ্যাপটি ব্যবহার করুন:** সেরা ইউজার ইন্টারফেস এবং ফিচারের জন্য আমাদের অফিসিয়াল অ্যাপটি ব্যবহার করার পরামর্শ দিচ্ছি।
+* 🔗 **M3U Playlist ব্যবহার:** আপনি চাইলে আমাদের এই **M3U Playlist URL** টি কপি করে অন্য যেকোনো আইপি টিভি প্লেয়ারে (যেমন: VLC, MX Player বা OTT Navigator) সরাসরি ব্যবহার করতে পারবেন। এটি সবার জন্য উন্মুক্ত।
 
 ---
 
-## 🔗 M3U PLAYLIST URL (COPY LINK)
+## 📥 সরাসরি অ্যাপটি ডাউনলোড করুন (Download Our App)
 
-আপনি যদি অন্য কোনো প্লেয়ার (VLC, MX Player, OTT Navigator) ব্যবহার করতে চান, তবে নিচের লিঙ্কটি কপি করুন:
+[![Download Star Bangla App](https://img.shields.io/badge/Download-Star_Bangla_App-green?style=for-the-badge&logo=android&logoColor=white)](https://gla.onrender.com)
 
-```text
-[https://raw.githubusercontent.com/starbangla/iptv/main/playlist.m3u](https://raw.githubusercontent.com/starbangla/iptv/main/playlist.m3u)
+> **লিঙ্ক:** [https://gla.onrender.com](https://gla.onrender.com)
+
+---
+
+## 👨‍💻 ডেভেলপার তথ্য (Developer Info)
+**নাম:** Yeasin Arafat  
+**অফিসিয়াল পেজ:** [Star Bangla Official](https://facebook.com/StarBanglaOfficial007)
+
+---
+
+## 🌐 আমাদের সাথে যুক্ত থাকুন
+
+| মাধ্যম | লিঙ্ক |
+| :--- | :--- |
+| 🌍 **অফিসিয়াল ওয়েবসাইট** | [Visit Website](https://gla.onrender.com) |
+| 💬 **টেলিগ্রাম চ্যানেল** | [@Star_Bangla_Official](https://t.me/Star_Bangla_Official) |
+| 📺 **ইউটিউব চ্যানেল** | [@StarBanglaOfficial-007](https://youtube.com/@StarBanglaOfficial-007) |
+| 👥 **ফেসবুক পেজ** | [fb.com/StarBanglaOfficial007](https://facebook.com/StarBanglaOfficial007) |
+
+---
+
+### ⭐ Please Give a Star
+প্রজেক্টটি আপনার উপকারে আসলে একটি **Star** দিয়ে আমাদের উৎসাহিত করুন!
+
+</div>
